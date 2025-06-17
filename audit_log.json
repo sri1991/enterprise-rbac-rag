@@ -1,0 +1,31 @@
+{"user_id": "admin", "user_role": "Executive", "action": "login", "timestamp": "2025-06-17 11:43:31.440850", "details": null}
+{"user_id": "admin", "user_role": "Executive", "action": "upload_document", "timestamp": "2025-06-17 11:43:31.440850", "details": {"document_id": "1b211d88-1a1f-4796-a591-c1a59325ad75", "title": "Transformers", "access_roles": ["Manager", "Executive"]}}
+{"user_id": "admin", "user_role": "Executive", "action": "search", "timestamp": "2025-06-17 11:43:31.440850", "details": {"query": "Help me summarize transformer architecture"}}
+{"user_id": "admin", "user_role": "Executive", "action": "query", "timestamp": "2025-06-17 11:43:31.440850", "details": {"query": "Help me summarize transformer architecture"}}
+{"user_id": "admin", "user_role": "Executive", "action": "search", "timestamp": "2025-06-17 11:43:31.440850", "details": {"query": "Help me summarize transformer architecture"}}
+{"user_id": "admin", "user_role": "Executive", "action": "login", "timestamp": "2025-06-17 11:49:54.374098", "details": null}
+{"user_id": "admin", "user_role": "Executive", "action": "query", "timestamp": "2025-06-17 11:49:54.374098", "details": {"query": "summarize and help me understand transformer architecture"}}
+{"user_id": "admin", "user_role": "Executive", "action": "search", "timestamp": "2025-06-17 11:49:54.374098", "details": {"query": "summarize and help me understand transformer architecture"}}
+{"user_id": "admin", "user_role": "Executive", "action": "search", "timestamp": "2025-06-17 11:49:54.374098", "details": {"query": "transformer"}}
+{"user_id": "admin", "user_role": "Executive", "action": "query", "timestamp": "2025-06-17 11:49:54.374098", "details": {"query": "what are transformers"}}
+{"user_id": "admin", "user_role": "Executive", "action": "search", "timestamp": "2025-06-17 11:49:54.374098", "details": {"query": "what are transformers"}}
+{"user_id": "admin", "user_role": "Executive", "action": "login", "timestamp": "2025-06-17 11:54:04.955747", "details": null}
+{"user_id": "admin", "user_role": "Executive", "action": "query", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "what are transformer "}}
+{"user_id": "admin", "user_role": "Executive", "action": "search", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "what are transformer "}}
+{"user_id": "admin", "user_role": "Executive", "action": "logout", "timestamp": "2025-06-17 11:54:04.955747", "details": null}
+{"user_id": "employee", "user_role": "Employee", "action": "login", "timestamp": "2025-06-17 11:54:04.955747", "details": null}
+{"user_id": "employee", "user_role": "Employee", "action": "query", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "what are transformers"}}
+{"user_id": "employee", "user_role": "Employee", "action": "search", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "what are transformers"}}
+{"user_id": "admin", "user_role": "Executive", "action": "login", "timestamp": "2025-06-17 11:54:04.955747", "details": null}
+{"user_id": "admin", "user_role": "Executive", "action": "query", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "What are transformers"}}
+{"user_id": "admin", "user_role": "Executive", "action": "search", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "What are transformers"}}
+{"user_id": "employee", "user_role": "Employee", "action": "login", "timestamp": "2025-06-17 11:54:04.955747", "details": null}
+{"user_id": "employee", "user_role": "Employee", "action": "query", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "what are transformers"}}
+{"user_id": "employee", "user_role": "Employee", "action": "search", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "what are transformers"}}
+{"user_id": "employee", "user_role": "Employee", "action": "logout", "timestamp": "2025-06-17 11:54:04.955747", "details": null}
+{"user_id": "manager", "user_role": "Manager", "action": "login", "timestamp": "2025-06-17 11:54:04.955747", "details": null}
+{"user_id": "manager", "user_role": "Manager", "action": "query", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "what are transformers"}}
+{"user_id": "manager", "user_role": "Manager", "action": "search", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "what are transformers"}}
+{"user_id": "manager", "user_role": "Manager", "action": "search", "timestamp": "2025-06-17 11:54:04.955747", "details": {"query": "transformer"}}
+{"user_id": "manager", "user_role": "Manager", "action": "logout", "timestamp": "2025-06-17 11:54:04.955747", "details": null}
+{"user_id": "admin", "user_role": "Executive", "action": "login", "timestamp": "2025-06-17 11:54:04.955747", "details": null}

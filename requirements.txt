@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-groq
+chromadb
+pypdf
+pydantic
+python-dotenv
+bcrypt
+python-jose
+passlib

@@ -15,7 +15,7 @@ from rag import process_pdf, search_documents, generate_answer, delete_document,
 
 # Page configuration
 st.set_page_config(
-    page_title="PaperPulse - RBAC Document Management",
+    page_title="RBAC Based RAG Pipeline",
     page_icon="📚",
     layout="wide"
 )
@@ -280,7 +280,7 @@ def audit_logs():
 def main():
     """Main application"""
     # Display header
-    st.title("PaperPulse - RBAC Document Management")
+    st.title("RBAC Based RAG Pipeline")
     
     # Sidebar for navigation and user info
     with st.sidebar:

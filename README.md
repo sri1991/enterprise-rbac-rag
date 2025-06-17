@@ -1,4 +1,4 @@
-# PaperPulse - RBAC Document Management System
+# RBAC Based RAG Pipeline
 
 A secure document management system with Role-Based Access Control (RBAC) for organizational documents, featuring semantic search and a RAG pipeline for answering questions about your documents.
 

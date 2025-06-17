@@ -58,10 +58,10 @@ def retrieve_documents(query, user_role, user_department):
 **Challenge**: Ensuring AI responses don't leak information from restricted documents
 **Solution**: Context filtering before LLM processing
 
-## Enterprise Implementation: PaperPulse Case Study
+## Enterprise Implementation: RBAC Based RAG Pipeline Case Study
 
 ### Architecture Overview
-Our PaperPulse implementation demonstrates enterprise-grade RBAC in a RAG pipeline:
+Our RBAC Based RAG Pipeline implementation demonstrates enterprise-grade RBAC in a RAG pipeline:
 
 #### Role Hierarchy
 - **Executive**: Full organizational access, audit capabilities, user management
@@ -159,7 +159,7 @@ def log_access(user, action, document_id, result):
 
 ## Conclusion
 
-RBAC in RAG pipelines is not just a security feature—it's a business enabler that allows enterprises to harness the power of AI-driven knowledge management while maintaining strict information governance. The PaperPulse implementation demonstrates that with proper design and implementation, organizations can achieve both security and usability.
+RBAC in RAG pipelines is not just a security feature—it's a business enabler that allows enterprises to harness the power of AI-driven knowledge management while maintaining strict information governance. The RBAC Based RAG Pipeline implementation demonstrates that with proper design and implementation, organizations can achieve both security and usability.
 
 As enterprises continue to adopt RAG systems for competitive advantage, those that prioritize RBAC from the ground up will be better positioned to scale securely, maintain compliance, and protect their most valuable asset: information.
 
